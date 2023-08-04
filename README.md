@@ -12,6 +12,6 @@
 2. Install the required packages given in `requirements.txt` using `pip install -r requirements.txt`
 3. Run the main Recomendation_UI.py app using `streamlit run Recomendation_UI.py`
 4. Open your localhost endpoint, the webapp will look like below:
-5. ![alt text]('UI_SS.png')
-6. Play around with the app by entering different queries in the text box.
+   ![alt text](https://github.com/sharmamohit123/CLIP_Bird_Search_Engine/blob/main/UI_SS.png?raw=true)
+6. Play around with the app by entering different queries in the search box.
 
